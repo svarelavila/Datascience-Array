@@ -17,5 +17,5 @@ Este proyecto está diseñado para introducirse en el uso y manipulación de arr
 ### Evaluación
 
 <p align="left">
-  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/py_01_70.png" alt="logo" width="100"/>
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/ok_100.png" alt="logo" width="100"/>
 </p>
