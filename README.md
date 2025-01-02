@@ -1,9 +1,10 @@
-# Piscine Python for Data Science - Arrays
+# 🧩 Piscine Python for Data Science - Arrays
+
 <p align="justify">
 Este proyecto está diseñado para introducirse en el uso y manipulación de arrays, con un enfoque práctico en el procesamiento de imágenes. A lo largo de los ejercicios, aprenderás a trabajar con arrays multidimensionales, realizar operaciones de slicing, aplicar transformaciones, y manejar imágenes con herramientas específicas.
 </p>
 
-## Resumen de Ejercicios
+### 📚 Resumen de Ejercicios
 
 | **Ejercicio** | **Descripción**                                                                                         |
 |---------------|---------------------------------------------------------------------------------------------------------|
@@ -14,8 +15,8 @@ Este proyecto está diseñado para introducirse en el uso y manipulación de arr
 | **ex04**        | Diseña un programa que recorta y rota una imagen utilizando operaciones de transposición.                |
 | **ex05**        | Implementa filtros de color personalizados (invertir, rojo, verde, azul y gris) para imágenes.           |
 
-### Evaluación
+### 🏆 Evaluación
 
 <p align="left">
-  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/ok_100.png" alt="logo" width="100"/>
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/ok_100.png" alt="logo" width="125"/>
 </p>
