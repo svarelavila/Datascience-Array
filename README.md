@@ -1,10 +1,10 @@
-# 🧩 Piscine Python for Data Science - Arrays
+# 💻 Piscine Python for Data Science - Arrays
 
 <p align="justify">
 Este proyecto está diseñado para introducirse en el uso y manipulación de arrays, con un enfoque práctico en el procesamiento de imágenes. A lo largo de los ejercicios, aprenderás a trabajar con arrays multidimensionales, realizar operaciones de slicing, aplicar transformaciones, y manejar imágenes con herramientas específicas.
 </p>
 
-### 📚 Resumen de Ejercicios
+### 🧩 Resumen de Ejercicios
 
 | **Ejercicio** | **Descripción**                                                                                         |
 |---------------|---------------------------------------------------------------------------------------------------------|
